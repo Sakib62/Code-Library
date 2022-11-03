@@ -13,7 +13,6 @@ void sieveOfEratosthenes(long long n) {
     }
 
 	prime.push_back(2);
-
 	for(i = 3; i <= n; i += 2) {
 		if(isComposite[i] == 0) {
 			prime.push_back(i);
