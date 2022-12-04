@@ -2,8 +2,6 @@
 
 My notebook of algorithms, data structure, guidelines, resources etc. necessary for competitive programming.
 
-<br>
-
 # CP is Fun
 
 What is fun in CP?!
