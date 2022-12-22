@@ -1,10 +1,16 @@
-# Blog
+# STL Container
+
+1. [When to use which STL](https://www.hackerearth.com/practice/notes/c-stls-when-to-use-which-stl/)
+2. [Choosing the right container](https://embeddedartistry.com/blog/2017/09/11/choosing-the-right-container-sequential-containers/)
+3. [Triple Ended Queue](https://www.codingninjas.com/codestudio/library/design-front-middle-back-queue-using-stl)
+
+<br>
 
 ## Bangla Blog
 
 1. [Shafaet's Planet](https://www.shafaetsplanet.com/)
 2. [Zobayer's Blog](http://zobayer.blogspot.com/) 
-3. [Fahim Steinum](https://sites.google.com/site/smilitude/)
+3. [Smilitude](https://sites.google.com/site/smilitude/)
 4. [Progkriya](http://www.progkriya.org/)
 5. [Zulkarnine](https://www.zulkarnine.com/)
 
@@ -17,9 +23,7 @@
 5. [TutorialsPoint](https://www.tutorialspoint.com/index.htm)
 6. [CPlusPlus](https://cplusplus.com/)
 
-# Youtube Channel
-
-## Bangla Channel
+## Bangla YT Channel
 
 1. [BACS](https://www.youtube.com/@b.a.c.s)
 2. [Love Extends Code](http://youtube.com/c/LoveExtendsCode)
@@ -30,14 +34,14 @@
 7. [Sharif Chowdhury](https://www.youtube.com/@shariftech)
 8. [Anisul Islam](https://www.youtube.com/@anisul-islam)
 
-## Hindi Channel
+## Hindi YT Channel
 
 1. [Luv](http://youtube.com/c/LuvIsMe)
 2. [Apna College](http://youtube.com/c/ApnaCollegeOfficial)
 3. [Jenny's Lecture](http://youtube.com/c/JennyslecturesCSITNETJRF)
 4. [Code With Harry](http://youtube.com/c/CodeWithHarry)
 
-## English Channel
+## English YT Channel
 
 1. [Errichto](https://www.youtube.com/@Errichto)
 2. [Abdul Bari](https://www.youtube.com/@abdul_bari)
